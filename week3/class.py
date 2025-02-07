@@ -82,9 +82,9 @@ class account:
         else:
             print("error.")
 
-acc = account("John Doe", 100)
-print(f"Account Owner: {acc.owner}")
-print(f"Initial Balance: ${acc.balance}")
+acc =account("John Doe", 100)
+print(f"account owner: {acc.owner}")
+print(f"initial balance: ${acc.balance}")
 
 acc.deposit(50)
 acc.withdraw(30)
