@@ -21,7 +21,7 @@ class square(shape):
     def __init__(self, length):
         self.length=length
     def area(self):
-        return self.length ** 2
+        return self.length ** +2
 square = square(5)
 print("Square area is ", square.area())
 '''
