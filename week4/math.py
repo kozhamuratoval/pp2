@@ -15,7 +15,8 @@ length = int(input())
 area = (r * (length**2))/(4 * math.tan(math.pi)/r)
 print(area)'''
 
-'''a = float(input())
+'''
+a = float(input())
 h = float(input())
 print(a*h)
 '''
