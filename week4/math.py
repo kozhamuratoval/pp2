@@ -17,5 +17,6 @@ print(area)'''
 
 '''a = float(input())
 h = float(input())
-print(a*h)'''
+print(a*h)
+'''
 
